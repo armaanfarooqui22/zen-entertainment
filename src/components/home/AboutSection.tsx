@@ -62,7 +62,7 @@ export default function AboutSection() {
               {/* Card 1: CSMPAF Festival Crowd (Large Backdrop) */}
               <TiltCard className="absolute top-0 right-0 w-[85%] h-[68%] rounded-2xl glass-card overflow-hidden shadow-2xl border border-cinema-gold/25 z-10">
                 <Image
-                  src="/assets/work/festivals/csmpaf-crowd.png"
+                  src="/zen-entertainment/assets/work/festivals/csmpaf-crowd.png"
                   alt="CSMPAF Festival Crowd"
                   fill
                   className="object-cover"
@@ -77,7 +77,7 @@ export default function AboutSection() {
               {/* Card 2: Ghazaliyat Concert Stage (Foreground Offset) */}
               <TiltCard className="absolute bottom-0 left-0 w-[75%] h-[55%] rounded-2xl glass-card overflow-hidden shadow-[0_20px_50px_rgba(0,0,0,0.9)] border border-cinema-magenta/40 z-20">
                 <Image
-                  src="/assets/work/concerts/ghazaliyat.png"
+                  src="/zen-entertainment/assets/work/concerts/ghazaliyat.png"
                   alt="Ghazaliyat Musical Concert"
                   fill
                   className="object-cover"

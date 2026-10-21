@@ -33,7 +33,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "आरण्यक",
     category: "Live Shows Managed",
     categoryKey: "live-shows",
-    image: "/assets/work/live-shows/aaranyak.png",
+    image: "/zen-entertainment/assets/work/live-shows/aaranyak.png",
     aspectRatio: "portrait",
     description:
       "A classic Mahabharata theatre masterpiece written and directed by Ratnakar Matkari, starring Dilip Prabhavalkar. Production head: Ashwini Kamble.",
@@ -47,7 +47,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "अलबत्या गलबत्या",
     category: "Live Shows Managed",
     categoryKey: "live-shows",
-    image: "/assets/work/live-shows/albatya-galbatya.png",
+    image: "/zen-entertainment/assets/work/live-shows/albatya-galbatya.png",
     aspectRatio: "portrait",
     description:
       "World-record-breaking fantasy stage spectacle written by Ratnakar Matkari and directed by Chinmay Mandlekar, starring Vaibhav Mangle.",
@@ -61,7 +61,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "निम्मा शिम्मा राक्षस",
     category: "Live Shows Managed",
     categoryKey: "live-shows",
-    image: "/assets/work/live-shows/nimma-shimma-rakshas.png",
+    image: "/zen-entertainment/assets/work/live-shows/nimma-shimma-rakshas.png",
     aspectRatio: "portrait",
     description:
       "Blockbuster children's fantasy stage production written by Ratnakar Matkari and directed by Chinmay Mandlekar. Production head: Ashwini Kamble.",
@@ -75,7 +75,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "इब्लिस ... शैतान हाजिर !!!",
     category: "Live Shows Managed",
     categoryKey: "live-shows",
-    image: "/assets/work/live-shows/iblis.png",
+    image: "/zen-entertainment/assets/work/live-shows/iblis.png",
     aspectRatio: "portrait",
     description:
       "Thrilling psychological drama presented by Zee Marathi and produced by Adwait Theatre, starring Apurva Nemlekar, Rahul Mehendale, and Vaibhav Mangle.",
@@ -89,7 +89,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "शोधा अकबर",
     category: "Live Shows Managed",
     categoryKey: "live-shows",
-    image: "/assets/work/live-shows/shodha-akbar.png",
+    image: "/zen-entertainment/assets/work/live-shows/shodha-akbar.png",
     aspectRatio: "portrait",
     description:
       "Historical comedy stage production by Adwait Theatre, featuring Prasad Khandekar and ensemble.",
@@ -103,7 +103,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "स्टॅच्यू ऑफ लिबर्टी",
     category: "Live Shows Managed",
     categoryKey: "live-shows",
-    image: "/assets/work/live-shows/statue-of-liberty.png",
+    image: "/zen-entertainment/assets/work/live-shows/statue-of-liberty.png",
     aspectRatio: "portrait",
     description:
       "Thought-provoking social satire written and directed by Arvind Jagtap. Nominated for Best Costume Design at Zee Natya Gaurav.",
@@ -117,7 +117,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "महफ़िल-ए-इलाही",
     category: "Live Shows Managed",
     categoryKey: "live-shows",
-    image: "/assets/work/live-shows/mehfil-e-ilahi.png",
+    image: "/zen-entertainment/assets/work/live-shows/mehfil-e-ilahi.png",
     aspectRatio: "portrait",
     description:
       "A soulful Ghazal rendition featuring Ghazal Nawaz Bhimrao Panchale celebrating the verses of veteran ghazal maestro Ilahi Jamadar at Shivaji Mandir, Dadar.",
@@ -133,7 +133,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "ग़ज़लियत (मराठी-उर्दू गझलांची भावगर्भ मैफिल)",
     category: "Live Musical Concerts",
     categoryKey: "concerts",
-    image: "/assets/work/concerts/ghazaliyat.png",
+    image: "/zen-entertainment/assets/work/concerts/ghazaliyat.png",
     aspectRatio: "landscape",
     description:
       "Grand Golden Jubilee musical concert honoring Ghazal Nawaz Bhimrao Panchale and Dr. Bhagyashree Panchale, produced and organized by Zen Entertainment at Shivaji Mandir, Dadar.",
@@ -147,7 +147,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "स्वरांगण (एक सुरेल दीपोत्सव! दिवाळी पहाट)",
     category: "Live Musical Concerts",
     categoryKey: "concerts",
-    image: "/assets/work/concerts/swarangan.png",
+    image: "/zen-entertainment/assets/work/concerts/swarangan.png",
     aspectRatio: "landscape",
     description:
       "A luminous morning celebration of music produced by Zen Entertainment and presented by Zee Yuva, featuring Spruha Joshi, Anandi Joshi, Mandar Apte, and ensemble at Dinanath Natyagruh, Vile Parle.",
@@ -163,7 +163,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "छत्रपती शिवाजी महाराज पार्क Art Festival",
     category: "Festival & Technical Production",
     categoryKey: "festivals",
-    image: "/assets/work/festivals/csmpaf-crowd.png",
+    image: "/zen-entertainment/assets/work/festivals/csmpaf-crowd.png",
     aspectRatio: "landscape",
     description:
       "Core committee execution managing 10,000+ enthusiastic festival attendees, crowd flow, and security operations at the iconic Shivaji Park grounds.",
@@ -177,7 +177,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "मंच व तांत्रिक व्यवस्थापन",
     category: "Festival & Technical Production",
     categoryKey: "festivals",
-    image: "/assets/work/festivals/csmpaf-stage-1.png",
+    image: "/zen-entertainment/assets/work/festivals/csmpaf-stage-1.png",
     aspectRatio: "landscape",
     description:
       "End-to-end technical production managing professional audio engineering, stage lighting, trussing, and artist performances.",
@@ -191,7 +191,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "कला व देखावा मांडणी",
     category: "Festival & Technical Production",
     categoryKey: "festivals",
-    image: "/assets/work/festivals/csmpaf-art-installation.png",
+    image: "/zen-entertainment/assets/work/festivals/csmpaf-art-installation.png",
     aspectRatio: "square",
     description:
       "Curating and producing large-scale performing arts environments, visual art installations, and cultural exhibits.",
@@ -207,7 +207,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "उभ्या उभ्या! (Celebrity Standup Comedy)",
     category: "Non-Fiction for OTT",
     categoryKey: "ott",
-    image: "/assets/work/ott-tv/ubhya-ubhya-planet-marathi.png",
+    image: "/zen-entertainment/assets/work/ott-tv/ubhya-ubhya-planet-marathi.png",
     aspectRatio: "landscape",
     description:
       "Celebrity standup comedy series on Planet Marathi OTT featuring Mahesh Manjrekar, Kranti Redkar, Parth Bhalerao, Viju Mane, and Maharashtra's top comedy creators. Produced by Zen Entertainment.",
@@ -223,7 +223,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "होऊ दे चर्चा... कार्यक्रम आहे घरचा !",
     category: "Non-Fiction for Sun Marathi",
     categoryKey: "tv",
-    image: "/assets/work/ott-tv/hau-de-charcha-sun-marathi.png",
+    image: "/zen-entertainment/assets/work/ott-tv/hau-de-charcha-sun-marathi.png",
     aspectRatio: "landscape",
     description:
       "Prime-time Sunday celebrity talk show on Sun Marathi hosted by Sonalee Kulkarni, featuring prominent dignitaries and artists from across Maharashtra. Co-powered by Santoor & Society Tea.",
@@ -237,7 +237,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "सेट ऑफ शो — होऊ दे चर्चा",
     category: "Non-Fiction for Sun Marathi",
     categoryKey: "tv",
-    image: "/assets/work/ott-tv/hau-de-charcha-set.png",
+    image: "/zen-entertainment/assets/work/ott-tv/hau-de-charcha-set.png",
     aspectRatio: "landscape",
     description:
       "High-end broadcast television set architecture designed, built, and lit for multi-camera live broadcast on Sun Marathi.",
@@ -253,7 +253,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "Lights Camera Women",
     category: "Non-Fiction for YouTube",
     categoryKey: "youtube",
-    image: "/assets/work/digital/lights-camera-women.png",
+    image: "/zen-entertainment/assets/work/digital/lights-camera-women.png",
     aspectRatio: "portrait",
     description:
       "Special digital series putting the spotlight on visionary women filmmakers, artists, writers, and technicians transforming Indian cinema and entertainment.",
@@ -267,7 +267,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "दावत & Gossip",
     category: "Non-Fiction for YouTube",
     categoryKey: "youtube",
-    image: "/assets/work/digital/dawat-and-gossip.png",
+    image: "/zen-entertainment/assets/work/digital/dawat-and-gossip.png",
     aspectRatio: "square",
     description:
       "Vibrant food and entertainment talk show format combining candid celebrity gossip over delectable culinary feasts.",
@@ -283,7 +283,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "भारतीय संविधान दिन — २६ नोव्हेंबर",
     category: "Public Service Announcement",
     categoryKey: "psa",
-    image: "/assets/work/psa/indian-constitution-day.png",
+    image: "/zen-entertainment/assets/work/psa/indian-constitution-day.png",
     aspectRatio: "portrait",
     description:
       "Inspiring public service tribute video by Zen Entertainment honoring Dr. Bhimrao Ambedkar's legacy: 'We are Indians, firstly and lastly.'",
@@ -299,7 +299,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "Jurassic Genius (CG-Animated Series)",
     category: "BGM & Edit for Cartoon",
     categoryKey: "cartoon",
-    image: "/assets/work/animation/jurassic-genius.png",
+    image: "/zen-entertainment/assets/work/animation/jurassic-genius.png",
     aspectRatio: "portrait",
     description:
       "Background score composition, sound design, and episodic editing for Brio Studio's prehistoric CG-animated action-adventure series.",
@@ -313,7 +313,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "Tibu n Friends (CGI Short-Format)",
     category: "BGM & Edit for Cartoon",
     categoryKey: "cartoon",
-    image: "/assets/work/animation/tibu-n-friends.png",
+    image: "/zen-entertainment/assets/work/animation/tibu-n-friends.png",
     aspectRatio: "portrait",
     description:
       "Audio editing, Foley, and post-production for Brio Studio's 26-episode CGI short-format series for young audiences (Ages 4 to 9).",
@@ -329,7 +329,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "सामना: 'भीमराव पांचाळे यांच्या गजलियतने प्रेक्षक धुंद'",
     category: "Press & Media Coverage",
     categoryKey: "press",
-    image: "/assets/work/press/saamana-newspaper.png",
+    image: "/zen-entertainment/assets/work/press/saamana-newspaper.png",
     aspectRatio: "square",
     description:
       "Leading Marathi daily Saamana Mumbai edition coverage (May 29, 2023) spotlighting Ashwini Kamble honoring Ghazal Nawaz Bhimrao Panchale at Shivaji Mandir.",
@@ -343,7 +343,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "पुण्य नगरी: 'पं. भीमराव पांचाळे यांच्या कारकीर्दीचा सुवर्णमहोत्सव'",
     category: "Press & Media Coverage",
     categoryKey: "press",
-    image: "/assets/work/press/punya-nagari-newspaper.png",
+    image: "/zen-entertainment/assets/work/press/punya-nagari-newspaper.png",
     aspectRatio: "square",
     description:
       "Punya Nagari Smart Mumbai edition feature highlighting Zen Entertainment Director Ashwini Kamble's collaboration with Shri Chhatrapati Shivaji Smarak Mandal.",
@@ -357,7 +357,7 @@ export const portfolioItems: PortfolioItem[] = [
     marathiTitle: "लोकमत सखी: 'संविधानात स्त्रीचा सन्मान सर्वोच्च आहे'",
     category: "Press & Media Coverage",
     categoryKey: "press",
-    image: "/assets/work/press/lokmat-sakhi-interview.png",
+    image: "/zen-entertainment/assets/work/press/lokmat-sakhi-interview.png",
     aspectRatio: "landscape",
     description:
       "In-depth video interview on Lokmat Sakhi featuring Producer Ashwini Kamble discussing women empowerment, constitutional values, and creative entrepreneurship.",

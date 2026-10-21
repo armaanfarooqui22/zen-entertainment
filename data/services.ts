@@ -24,7 +24,7 @@ export const servicesData: ServiceItem[] = [
       "High-End Color Grading & Post-Production",
       "Theatrical Master & Censor Certification Assistance",
     ],
-    bgImage: "/assets/work/festivals/csmpaf-crowd.png",
+    bgImage: "/zen-entertainment/assets/work/festivals/csmpaf-crowd.png",
     categorySlug: "films",
   },
   {
@@ -41,7 +41,7 @@ export const servicesData: ServiceItem[] = [
       "Daily Turnaround Editing & Master QC",
       "Broadcast Network Delivery for Sun Marathi, Zee, & OTT",
     ],
-    bgImage: "/assets/work/ott-tv/hau-de-charcha-set.png",
+    bgImage: "/zen-entertainment/assets/work/ott-tv/hau-de-charcha-set.png",
     categorySlug: "television",
   },
   {
@@ -58,7 +58,7 @@ export const servicesData: ServiceItem[] = [
       "Optimized Social & Episodic Editing",
       "Audience Engagement & Community Distribution",
     ],
-    bgImage: "/assets/work/digital/lights-camera-women.png",
+    bgImage: "/zen-entertainment/assets/work/digital/lights-camera-women.png",
     categorySlug: "digital",
   },
   {
@@ -75,7 +75,7 @@ export const servicesData: ServiceItem[] = [
       "Cinematic Music Video Directing & Production",
       "Audio Streaming Distribution & Licensing",
     ],
-    bgImage: "/assets/work/concerts/ghazaliyat.png",
+    bgImage: "/zen-entertainment/assets/work/concerts/ghazaliyat.png",
     categorySlug: "music",
   },
   {
@@ -92,7 +92,7 @@ export const servicesData: ServiceItem[] = [
       "Artist Hospitality & Celebrity Security Protocol",
       "Government, Municipal & Police Permission Clearances",
     ],
-    bgImage: "/assets/work/festivals/csmpaf-stage-1.png",
+    bgImage: "/zen-entertainment/assets/work/festivals/csmpaf-stage-1.png",
     categorySlug: "live-events",
   },
   {
@@ -109,7 +109,7 @@ export const servicesData: ServiceItem[] = [
       "Background Score, Foley & Sound Design for Animation",
       "Kids & Family Demographic IP Development",
     ],
-    bgImage: "/assets/work/animation/jurassic-genius.png",
+    bgImage: "/zen-entertainment/assets/work/animation/jurassic-genius.png",
     categorySlug: "animation",
   },
 ];

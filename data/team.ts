@@ -20,7 +20,7 @@ export const teamMembers: TeamMember[] = [
     id: "ashwini-kamble",
     name: "Ashwini Jalindar Kamble",
     role: "Founder, Director & Producer",
-    image: "/assets/team/ashwini-kamble.png",
+    image: "/zen-entertainment/assets/team/ashwini-kamble.png",
     bioSnippet:
       "Director of Ashwika Interlink & Founder of Zen Entertainment. Former Entertainment Reporter & Producer at Zee24taas with deep industry relationships.",
     fullBio: [
@@ -42,7 +42,7 @@ export const teamMembers: TeamMember[] = [
     id: "sneha-paradkar",
     name: "Sneha Paradkar",
     role: "Head, Production & Finance (Operations)",
-    image: "/assets/team/sneha-paradkar.png",
+    image: "/zen-entertainment/assets/team/sneha-paradkar.png",
     bioSnippet:
       "Operations powerhouse leading daily production workflows, budget monitoring, financial reporting, and compliance adherence.",
     fullBio: [
@@ -66,7 +66,7 @@ export const teamMembers: TeamMember[] = [
     id: "pooja-bhandare",
     name: "Pooja Bhandare",
     role: "Creative Head",
-    image: "/assets/team/pooja-bhandare.png",
+    image: "/zen-entertainment/assets/team/pooja-bhandare.png",
     bioSnippet:
       "Acclaimed theatre director, costume designer, FM Gold RJ, sound editor, Visharad in Bharat Natyam & Sangeet, and PhD scholar in Folk Art.",
     fullBio: [

@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     siteName: "Zen Entertainment",
     images: [
       {
-        url: "/assets/work/festivals/csmpaf-crowd.png",
+        url: "/zen-entertainment/assets/work/festivals/csmpaf-crowd.png",
         width: 1200,
         height: 630,
         alt: "Zen Entertainment Production Showcase",
@@ -47,11 +47,11 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Zen Entertainment | Ashwika Interlink",
     description: "Award-level entertainment production company in Mumbai.",
-    images: ["/assets/work/festivals/csmpaf-crowd.png"],
+    images: ["/zen-entertainment/assets/work/festivals/csmpaf-crowd.png"],
   },
   icons: {
-    icon: "/assets/brand/zen-logo.png",
-    apple: "/assets/brand/zen-logo.png",
+    icon: "/zen-entertainment/assets/brand/zen-logo.png",
+    apple: "/zen-entertainment/assets/brand/zen-logo.png",
   },
 };
 

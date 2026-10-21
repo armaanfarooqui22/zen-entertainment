@@ -44,7 +44,7 @@ export default function Navbar() {
             {/* Ashwika Logo */}
             <div className="relative h-9 md:h-11 w-24 md:w-28 flex items-center">
               <Image
-                src="/assets/brand/ashwika-logo.png"
+                src="/zen-entertainment/assets/brand/ashwika-logo.png"
                 alt="Ashwika Interlink"
                 width={160}
                 height={55}
@@ -63,7 +63,7 @@ export default function Navbar() {
               </span>
               <div className="relative h-8 md:h-9 w-20 md:w-24 flex items-center">
                 <Image
-                  src="/assets/brand/zen-logo.png"
+                  src="/zen-entertainment/assets/brand/zen-logo.png"
                   alt="Zen Entertainment"
                   width={140}
                   height={50}

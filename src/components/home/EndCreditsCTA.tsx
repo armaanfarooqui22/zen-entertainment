@@ -25,7 +25,7 @@ export default function EndCreditsCTA() {
           <div className="flex items-center justify-center gap-3">
             <div className="relative h-8 w-24">
               <Image
-                src="/assets/brand/ashwika-logo.png"
+                src="/zen-entertainment/assets/brand/ashwika-logo.png"
                 alt="Ashwika Interlink"
                 width={140}
                 height={50}
@@ -35,7 +35,7 @@ export default function EndCreditsCTA() {
             <div className="h-5 w-[1px] bg-cinema-gold/30" />
             <div className="relative h-7 w-20">
               <Image
-                src="/assets/brand/zen-logo.png"
+                src="/zen-entertainment/assets/brand/zen-logo.png"
                 alt="Zen Entertainment"
                 width={120}
                 height={45}
